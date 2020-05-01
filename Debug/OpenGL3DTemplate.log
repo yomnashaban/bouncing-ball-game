@@ -1,0 +1,39 @@
+﻿  OpenGL3DTemplate.cpp
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(144,7): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(144,40): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(148,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(148,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(155,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(155,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(163,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(163,47): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(187,21): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(218,7): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(218,40): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(222,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(222,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(229,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(229,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(237,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(237,47): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(252,21): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(282,7): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(282,40): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(287,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(287,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(294,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(294,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(302,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(302,47): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(317,21): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(356,7): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(356,40): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(361,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(361,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(368,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(368,46): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(376,12): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(376,47): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\OpenGL3DTemplate.cpp(393,21): warning C4805:  '==': unsafe mix of type 'float' and type 'bool' in operation
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\Lenovo\Desktop\ass2 graphics\43-0820_T-22\Debug\OpenGL3DTemplate.exe
